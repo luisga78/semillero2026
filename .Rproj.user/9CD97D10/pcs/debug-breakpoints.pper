@@ -1,0 +1,66 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 123,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 2,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 123,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "D:/Usb16gmarzo2013/backup4gfeb2013/Clases Unal/Genética Cuantitativa/2020/2/Prácticas R/1/ej1.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 183,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 3,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 183,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "D:/Usb16gmarzo2013/backup4gfeb2013/Clases Unal/Genética Cuantitativa/2020/2/Prácticas R/1/ej1.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 323,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 5,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 323,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "D:/Usb16gmarzo2013/backup4gfeb2013/Clases Unal/Genética Cuantitativa/2020/2/Prácticas R/1/ej1.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 216,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 6,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 216,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "D:/Usb16gmarzo2013/backup4gfeb2013/Clases Unal/Genética Cuantitativa/2020/2/Prácticas R/1/ej1.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}
